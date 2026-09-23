@@ -5,19 +5,19 @@ Fecha: 22/09/2026
 
 ---
 ## Realiza las conversiones de binario a decimal
-![1](1.png)
+![1](1.jpeg)
 
 ---
 ## Convierte de binario a octal
-![2](2.png)
+![2](2.jpeg)
 
 ## Convierte de binario a hexadecimal
-![3](3.png)
+![3](3.jpeg)
 
 ## Convierte de octal a binario
-![4](4.png)
+![4](4.jpeg)
 
 ## Convierte de hexadecimal a binario
-![5](5.png)
+![5](5.jpeg)
 
 
